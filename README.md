@@ -144,3 +144,6 @@ KITTI 데이터는 `/project/jeongin/kitti_data/dataset` 경로에 있어야 하
 - **빨간선 (Ego)**: 프레임이 쌓일수록 연산 시간이 선형으로 증가 — 전체 지도를 매번 재변환하기 때문
 
 지도 표현 방식의 선택은 연산 비용뿐 아니라 활용 목적(절대 위치 참조 vs 로봇 중심 인지)에 따라 달라질 수 있다.
+
+<img width="855" height="547" alt="ass4_output" src="https://github.com/user-attachments/assets/dab3d168-ab16-41df-b15c-c33321bf482c" />
+
