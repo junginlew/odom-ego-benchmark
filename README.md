@@ -147,3 +147,4 @@ KITTI 데이터는 `/project/jeongin/kitti_data/dataset` 경로에 있어야 하
 
 <img width="855" height="547" alt="ass4_output" src="https://github.com/user-attachments/assets/dab3d168-ab16-41df-b15c-c33321bf482c" />
 
+<img width="645" height="1239" alt="image" src="https://github.com/user-attachments/assets/b4af20cf-d1a9-4585-941f-08feec68386b" />
